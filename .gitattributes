@@ -1,0 +1,5 @@
+packages/MongoDB.Libmongocrypt.1.8.0/MongoDB.Libmongocrypt.1.8.0.nupkg filter=lfs diff=lfs merge=lfs -text
+packages/cef.redist.x64.118.6.8/CEF/libcef.dll filter=lfs diff=lfs merge=lfs -text
+packages/cef.redist.x64.118.6.8/cef.redist.x64.118.6.8.nupkg filter=lfs diff=lfs merge=lfs -text
+packages/cef.redist.x86.118.6.8/cef.redist.x86.118.6.8.nupkg filter=lfs diff=lfs merge=lfs -text
+BGMChart/bin/Debug/libcef.dll filter=lfs diff=lfs merge=lfs -text
